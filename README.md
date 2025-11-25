@@ -69,23 +69,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfw-dami/dfw-dami/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dfw-dami/dfw-dami/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dfw-dami/dfw-dami/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dfw-dami&custom_title=Dami's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dfw-dami&custom_title=Dami's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -153,12 +137,6 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 ---
 
 <div align="center">
-
-### ✨ Profile Views & Activity
-
-![](https://komarev.com/ghpvc/?username=dfw-dami&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
