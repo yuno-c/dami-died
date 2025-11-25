@@ -36,25 +36,9 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 ## 🎨 Tech Stack & Tools
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,python,nodejs,express,mongodb,mysql,git,github,vscode,heroku&theme=dark&perline=5" />
 
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -77,7 +61,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dfw-dami&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dfw-dami&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
@@ -85,23 +69,23 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 <div align="center">
 
-## 💌 Connect With Me
+## 🐍 Contribution Snake
 
-<a href="https://wa.me/79208482988">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="https://t.me/dami_0x">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://www.linkedin.com/in/dami-undefined-4479bb395">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:damimuse@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/_milk.xq">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfw-dami/dfw-dami/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dfw-dami/dfw-dami/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dfw-dami/dfw-dami/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dfw-dami&custom_title=Dami's%20Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true&theme=react-dark" width="100%"/>
 
 </div>
 
@@ -136,6 +120,30 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 <div align="center">
 
+## 💌 Connect With Me
+
+<a href="https://wa.me/79208482988">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://t.me/dami_0x">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://www.linkedin.com/in/dami-undefined-4479bb395">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:damimuse@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://instagram.com/_milk.xq">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### 💭 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -148,8 +156,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 ### ✨ Profile Views & Activity
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=dfw-dami&icon=5&color=12)](https://visitcount.itsvg.in)
-<a href="https://github.com/dfw-dami"><img src="https://count.getloli.com/get/@dfw-dami?theme=rule34" alt="Counter"/></a>
+![](https://komarev.com/ghpvc/?username=dfw-dami&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br><br>
 
