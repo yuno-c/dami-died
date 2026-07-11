@@ -1,6 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Dami's%20Digital%20Realm&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+ype=waving&color=gradient&customColorList=12&height=200&section=header&text=Dami's%20Digital%20Realm&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 ### 💫 Computer Science Student | Code Enthusiast | Manga Lover 💫
 
