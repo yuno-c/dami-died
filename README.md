@@ -22,7 +22,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 - 🎓 Studying Computer Science
 - 💻 Building with JavaScript, Python, Node.js
-- 📚 Currently Reading: Too many manga to count
+- 📚 Currently Reading: bleh
 - 🎯 Goal: Master full-stack development
 - ⚡ Fun fact: I debug better with music
 - 🌱 Learning: Advanced algorithms & web development
